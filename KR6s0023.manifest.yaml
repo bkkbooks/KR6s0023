@@ -1,0 +1,67 @@
+canonical_identifier: bkk:krp/KR6s0023/v1
+canonical_location: https://kanripo.org/bkk/KR6s0023/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 唐梵文字
+  identifiers:
+    alt_id:
+    - T54n2134
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T54/T54n2134.xml
+    old_id: T54n2134
+  edition:
+    short: bkk
+editions:
+- short: 乙
+  label: 乙
+  source_xml_id: wit1
+- short: 甲
+  label: 甲
+  source_xml_id: wit2
+- short: 原
+  label: 原
+  source_xml_id: wit3
+- short: 丙
+  label: 丙
+  source_xml_id: wit4
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: ？
+  label: ？
+  source_xml_id: wit5
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6s0023_000.yaml, hash: 'sha256:3ca6577b4f02d0d48f6a41dac207e858fb78f212e3ae12b99359f6031890957a'}
+  - {seq: 1, filename: KR6s0023_001.yaml, hash: 'sha256:489fed25bd22b995b0f6ac0ce1284ff6860f4ab5cbc2e20b6166ebdac0cff464'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6s0023_001.markers.yaml, hash: 'sha256:4e2ba1553308bd78bcc8e701aa21c88122b186ee6bd352546d1ab43c57fbf501'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6s0023_T_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 唐梵文字一卷（序）
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6s0023_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 1228
+  label: 唐梵文字
+  type: juan
+  level: 1
+hash: sha256:77e83e32577b6e7c18a9a15dc7b2d0b99e60861dcf32753509111b558ff07af2
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
