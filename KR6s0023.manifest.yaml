@@ -37,9 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0023_000.yaml, hash: 'sha256:3ca6577b4f02d0d48f6a41dac207e858fb78f212e3ae12b99359f6031890957a'}
-  - {seq: 1, filename: KR6s0023_001.yaml, hash: 'sha256:489fed25bd22b995b0f6ac0ce1284ff6860f4ab5cbc2e20b6166ebdac0cff464'}
+  - {seq: 1, filename: KR6s0023_001.yaml, hash: 'sha256:89edc811cca08ab7b3e5281e276af6468ab0698fdca3afb1167e222c30f55486'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6s0023_001.markers.yaml, hash: 'sha256:4e2ba1553308bd78bcc8e701aa21c88122b186ee6bd352546d1ab43c57fbf501'}
+  - {seq: 0, role: markers, filename: assets/KR6s0023_000.markers.yaml, hash: 'sha256:83e4518c046dedec0538635713a205cf88a157d3c477eaf58d8e8616dca20f3c'}
+  - {seq: 1, role: markers, filename: assets/KR6s0023_001.markers.yaml, hash: 'sha256:ab6a76275ec1a8acda27183d5f5d5f6b988c6f9295939b7190fd085cd58c7fe0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -61,7 +62,4 @@ table_of_contents:
   label: 唐梵文字
   type: juan
   level: 1
-hash: sha256:77e83e32577b6e7c18a9a15dc7b2d0b99e60861dcf32753509111b558ff07af2
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d21e3ab3a3ada7d3fcc946476ed0e016f4c2dcc281074019bb3d78700bf0bfe1
