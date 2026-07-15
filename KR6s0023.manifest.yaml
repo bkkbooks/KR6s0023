@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6s0023/v1
 canonical_location: https://kanripo.org/bkk/KR6s0023/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 唐梵文字
   identifiers:
@@ -37,10 +37,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6s0023_000.yaml, hash: 'sha256:3ca6577b4f02d0d48f6a41dac207e858fb78f212e3ae12b99359f6031890957a'}
-  - {seq: 1, filename: KR6s0023_001.yaml, hash: 'sha256:89edc811cca08ab7b3e5281e276af6468ab0698fdca3afb1167e222c30f55486'}
+  - {seq: 1, filename: KR6s0023_001.yaml, hash: 'sha256:2535a586745171eebe931b9ff1bd2f4a30b5f1bdeda9f4cff263848be700baec'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6s0023_000.markers.yaml, hash: 'sha256:83e4518c046dedec0538635713a205cf88a157d3c477eaf58d8e8616dca20f3c'}
-  - {seq: 1, role: markers, filename: assets/KR6s0023_001.markers.yaml, hash: 'sha256:ab6a76275ec1a8acda27183d5f5d5f6b988c6f9295939b7190fd085cd58c7fe0'}
+  - {seq: 1, role: markers, filename: assets/KR6s0023_001.markers.yaml, hash: 'sha256:d471ad592d980555add3b37c39682e6d73ad97262243ebc86e6690a6b1770a3b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -62,4 +62,7 @@ table_of_contents:
   label: 唐梵文字
   type: juan
   level: 1
-hash: sha256:d21e3ab3a3ada7d3fcc946476ed0e016f4c2dcc281074019bb3d78700bf0bfe1
+hash: sha256:8af14fe69596d79c1294589e3a03636153b84c2e550415ba7048886dd567fbea
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
