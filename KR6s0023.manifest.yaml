@@ -36,17 +36,17 @@ editions:
 - short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6s0023_000.yaml, hash: 'sha256:3ca6577b4f02d0d48f6a41dac207e858fb78f212e3ae12b99359f6031890957a'}
+  - {seq: 0, filename: KR6s0023_000.yaml, hash: 'sha256:371d5fa09f63c4c0ba9d7545eded949ddbd6b0126cd7a75807b324b68d549b4d'}
   - {seq: 1, filename: KR6s0023_001.yaml, hash: 'sha256:2535a586745171eebe931b9ff1bd2f4a30b5f1bdeda9f4cff263848be700baec'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6s0023_000.markers.yaml, hash: 'sha256:83e4518c046dedec0538635713a205cf88a157d3c477eaf58d8e8616dca20f3c'}
+  - {seq: 0, role: markers, filename: assets/KR6s0023_000.markers.yaml, hash: 'sha256:6c0a53693159b5838e9f5477075bb96b4c4eaa14cd1773ca03b85c9ead37febf'}
   - {seq: 1, role: markers, filename: assets/KR6s0023_001.markers.yaml, hash: 'sha256:d471ad592d980555add3b37c39682e6d73ad97262243ebc86e6690a6b1770a3b'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6s0023_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 唐梵文字一卷（序）
@@ -62,7 +62,7 @@ table_of_contents:
   label: 唐梵文字
   type: juan
   level: 1
-hash: sha256:8af14fe69596d79c1294589e3a03636153b84c2e550415ba7048886dd567fbea
+hash: sha256:dd8d92417d4a9d3c2476c164e6a47c73ec2d5a49c7c716f11fd5c06ad1e32779
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

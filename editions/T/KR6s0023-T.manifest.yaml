@@ -19,17 +19,17 @@ metadata:
     short: T
 assets:
   parts:
-  - {seq: 0, filename: KR6s0023_000-T.yaml, hash: 'sha256:3ca6577b4f02d0d48f6a41dac207e858fb78f212e3ae12b99359f6031890957a'}
+  - {seq: 0, filename: KR6s0023_000-T.yaml, hash: 'sha256:371d5fa09f63c4c0ba9d7545eded949ddbd6b0126cd7a75807b324b68d549b4d'}
   - {seq: 1, filename: KR6s0023_001-T.yaml, hash: 'sha256:89edc811cca08ab7b3e5281e276af6468ab0698fdca3afb1167e222c30f55486'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6s0023_000-T.markers.yaml, hash: 'sha256:1b323398182bab4a48e6d5139960ca8cdb7a6e6a130464b103e52e22b28af5b9'}
+  - {seq: 0, role: markers, filename: assets/KR6s0023_000-T.markers.yaml, hash: 'sha256:8666194f23f7f906eb69e2375fa8261d073dc4c963ac36ff62040fe1c30427fc'}
   - {seq: 1, role: markers, filename: assets/KR6s0023_001-T.markers.yaml, hash: 'sha256:c8f30592e7f7b508b8c583ef67c4a4055156524f9fc0cb3d5e3c04f879281235'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6s0023_T_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 唐梵文字一卷（序）
@@ -45,4 +45,4 @@ table_of_contents:
   label: 唐梵文字
   type: juan
   level: 1
-hash: sha256:24f3c3f1375ad254e6324221bab6df33d68bc816667c708dc50c1eb536425a6d
+hash: sha256:0fa357ab9ed19741b705c0764d6ce10a8a9c9a9decf40457d4b4679e1c3148af

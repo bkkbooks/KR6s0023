@@ -1,13 +1,10 @@
 canonical_identifier: bkk:krp/KR6s0023/t/v1/juan/0
 seq: 0
-front:
+body:
   text: 唐梵文字一卷夫欲𭮧識兩國言音者須是師資相乘或是西國人亦須曉解悉曇童梵漢之語者或是博學君子欲得作學漢梵之語者悉曇文字五天音旨不出此途傅大瑜伽教千歲阿闍梨方傅流通此地並是中天音韻最密要文字出自聲明論本但有學唐梵之語者得此為首餘語皆通梵漢兩本同學習者細用其心一二年間即堪翻譯兩國言音字義同美夫欲翻譯持念習瑜伽行者先令精凍此文梵漢雙譯梵字漢字漢識梵言梵呼漢字者或多或並有二合三合或單或䨱但看字母音韻具在別卷聲韻兩段理令諸家有元之教乃各題名目下量漢字智者鑒詳傅於後代傅五部瑜伽持念教北平八力子全真集
   hash: sha256:6f854a0be529bc193142312014fa174f9388aae426459abf912d71ee5b7b8da8
   markers:
   - {type: 序, offset: 0, content: 唐梵文字一卷（序）, id: KR6s0023_T_000-mulu-1, level: '1'}
-body:
-  text: ''
-  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 metadata:
   title: 唐梵文字
   edition:
@@ -16,4 +13,4 @@ metadata:
     repository: cbeta
     path: /home/chris/src/xml-p5/T/T54/T54n2134.xml
     old_id: T54n2134
-hash: sha256:3ca6577b4f02d0d48f6a41dac207e858fb78f212e3ae12b99359f6031890957a
+hash: sha256:371d5fa09f63c4c0ba9d7545eded949ddbd6b0126cd7a75807b324b68d549b4d
